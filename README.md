@@ -23,7 +23,8 @@
 - 👯 I’m looking to collaborate on Learning Platform Open Source Projects.
 - 🤔 I’m looking for help with Software Engineering Bootcamp Syllabus. 
 - 💬 Ask me about Front-End Technologies and Stock Portfolio Position Sizing. 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jsharsheyev">
+- 📫 How to reach me: 
+    <a href="https://www.linkedin.com/in/jsharsheyev">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://youtube.com/@janatbek">
@@ -32,7 +33,6 @@
     <a href="https://twitter.com/janatbek">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsharsheyev)
 - ⚡ Fun fact: ...
 ---
 
@@ -151,6 +151,7 @@
 		height="40"
 	/>
 </div>
+---
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300""/>
 </div>
