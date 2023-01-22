@@ -14,6 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=janatbek&style=flat-square&color=blue" alt="Profile Views"/>
   <h1>Hi there 👋</h1>  
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <!--
 **Janatbek/Janatbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
