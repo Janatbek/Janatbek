@@ -12,7 +12,6 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=janatbek&style=flat-square&color=blue" alt="Profile Views"/>
-  <h1>Hi there 👋</h1>  
 </div>
 :man_technologist: About Me :
 <p>
@@ -24,7 +23,16 @@
 - 👯 I’m looking to collaborate on Learning Platform Open Source Projects.
 - 🤔 I’m looking for help with Software Engineering Bootcamp Syllabus. 
 - 💬 Ask me about Front-End Technologies and Stock Portfolio Position Sizing. 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsharsheyev)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jsharsheyev">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://youtube.com/@janatbek">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://twitter.com/janatbek">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsharsheyev)
 - ⚡ Fun fact: ...
 ---
 
