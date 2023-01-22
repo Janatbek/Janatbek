@@ -27,6 +27,6 @@
 - 👯 I’m looking to collaborate on Learning Platform Open Source Projects.
 - 🤔 I’m looking for help with Software Engineering Bootcamp Syllabus. 
 - 💬 Ask me about Front-End Technologies and Stock Portfolio Position Sizing. 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsharsheyev)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsharsheyev)
 - ⚡ Fun fact: ...
 
