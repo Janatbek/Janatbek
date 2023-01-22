@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :man_technologist: About Me :
+:man_technologist: About Me :
 <p>
   I am a driven and passionate software engineer with experience in web development, data science and machine learning. I am proficient in a variety of programming languages including C#, JavaScript | Angulart, and Python. I have a strong understanding of software development concepts and am constantly seeking new challenges and opportunities to improve my skills and knowledge. My current focus is on web development, data science, and machine learning. I am a team player, who enjoys collaborating on projects to achieve a common goal. I am also dedicated to sharing my knowledge and experience with others through mentoring and contributing to open source projects. Feel free to check out my LinkedIn profile to see my work and contributions.
 </p>
